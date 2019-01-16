@@ -4,5 +4,5 @@
 ###### 2. 使用pyinstaller打包项目
           `pyinstaller -F -w -i b.ico 号码提取.py`
 
-![https://github.com/luoqian67/extract-number/blob/master/%E6%BC%94%E7%A4%BA.gif](演示)
+![演示](https://raw.githubusercontent.com/luoqian67/extract-number/master/%E6%BC%94%E7%A4%BA.gif)
 
