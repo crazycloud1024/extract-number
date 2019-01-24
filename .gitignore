@@ -2,3 +2,5 @@ Lib/
 pip-selfcheck.json
 .idea/
 dist/
+Scripts/
+version/
